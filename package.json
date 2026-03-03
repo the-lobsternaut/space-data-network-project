@@ -1,0 +1,8 @@
+{
+  "name": "space-data-network-project",
+  "private": true,
+  "description": "Space Data Network monorepo - decentralized space situational awareness data standards and tools",
+  "workspaces": [
+    "packages/*"
+  ]
+}

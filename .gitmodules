@@ -1,0 +1,15 @@
+[submodule "packages/flatbuffers"]
+	path = packages/flatbuffers
+	url = https://github.com/the-lobsternaut/flatbuffers.git
+[submodule "packages/flatsql"]
+	path = packages/flatsql
+	url = https://github.com/the-lobsternaut/flatsql.git
+[submodule "packages/hd-wallet-wasm"]
+	path = packages/hd-wallet-wasm
+	url = https://github.com/the-lobsternaut/hd-wallet-wasm.git
+[submodule "packages/space-data-network"]
+	path = packages/space-data-network
+	url = https://github.com/the-lobsternaut/space-data-network.git
+[submodule "packages/spacedatastandards.org"]
+	path = packages/spacedatastandards.org
+	url = https://github.com/the-lobsternaut/spacedatastandards.org.git
