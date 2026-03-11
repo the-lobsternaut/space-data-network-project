@@ -13,3 +13,6 @@
 [submodule "packages/spacedatastandards.org"]
 	path = packages/spacedatastandards.org
 	url = https://github.com/the-lobsternaut/spacedatastandards.org.git
+[submodule "packages/emsdk"]
+	path = packages/emsdk
+	url = https://github.com/emscripten-core/emsdk.git
